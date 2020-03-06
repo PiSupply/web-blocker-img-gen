@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=install
+Icon=/home/adblock/Pictures/logo.png
+Exec=/home/adblock/Documents/pihole_install.sh

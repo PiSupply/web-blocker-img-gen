@@ -1,2 +1,4 @@
 IMG_NAME=pihole
 HOSTNAME=PIHOLE
+FIRST_USER_NAME=adblock
+FIRST_USER_PASS=blackhole
